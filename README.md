@@ -1,4 +1,40 @@
-## Hi there 👋
+## Hi there  Start
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=header&reversal=false&text=It's-a%20me,%20Ausmimisoft!%20%F0%9F%91%8B&fontSize=30&fontColor=FFFFFF&fontAlign=16&fontAlignY=80&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+### 👨‍💻 Giovanni Francesco *"Gioxx"* Solone
+Flawed by design, just like my code.
+
+- 🧔‍♂️ Dad and husband every chance I get, **System Engineer by day**
+- ✍️ Blogger in Italian, covering tech and life on [gioxx.org](https://gioxx.org)
+- 🧪 I write **ugly code that somehow works**, sometimes for fun, sometimes for work
+- 💥 An asshole on the outside, soft on the inside—ask my friends. Sorry in advance if I ever come off the wrong way.
+
+### 📫 Reach Out
+
+Want to collaborate, say hi, or rant about tech? Stay in touch!  
+
+<div align="left">
+  <a href="https://gioxx.org" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-gioxx.org-orange?style=flat-square&logo=wordpress" /></a>
+  <a href="https://ko-fi.com/gioxx" target="_blank"><img alt="Ko-Fi" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--Fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" /></a>
+  <a href="https://x.com/gioxx" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-@gioxx-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://go.gioxx.org/mastodon" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-@gioxx-6364FF?style=flat-square&logo=mastodon&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gioxx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@gioxx-0077B5?style=flat-square&logo=linkedin" /><a>
+  <a href="https://go.gioxx.org/r" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-@gioxx-FF4500?style=flat-square&logo=reddit&logoColor=white" /></a>
+</div>
+
+---
+
+“**_When in doubt, reboot. When that fails, push the red button and run away very fast._**”
+
+
+## Hi there  end
+
+
 
 <!--
 **Ausmimisoft/Ausmimisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
